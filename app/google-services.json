@@ -1,0 +1,77 @@
+{
+  "project_info": {
+    "project_number": "87039606908",
+    "firebase_url": "https://loginapp-9951b.firebaseio.com",
+    "project_id": "loginapp-9951b",
+    "storage_bucket": "loginapp-9951b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87039606908:android:24a41406125672091149f9",
+        "android_client_info": {
+          "package_name": "com.example.loginpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87039606908-51u7c572ead8dlel76rrqrsv5feh6vbp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.loginpage",
+            "certificate_hash": "310c4a44fc9072105c62896ef42483d573e70a2b"
+          }
+        },
+        {
+          "client_id": "87039606908-ul6br6rrte8je1bgk0olkjtl45sle2bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUvzxI6VerroXGOKsoekRkfQE6YKhI6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87039606908-ul6br6rrte8je1bgk0olkjtl45sle2bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:87039606908:android:25e09bfc256044a71149f9",
+        "android_client_info": {
+          "package_name": "com.salman.mdxApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "87039606908-ul6br6rrte8je1bgk0olkjtl45sle2bo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQUvzxI6VerroXGOKsoekRkfQE6YKhI6c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "87039606908-ul6br6rrte8je1bgk0olkjtl45sle2bo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
